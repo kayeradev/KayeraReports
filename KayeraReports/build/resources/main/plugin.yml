@@ -1,0 +1,11 @@
+name: KayeraReports
+version: '1.0-B'
+main: uk.kayera.kayeraReports.KayeraReports
+api-version: '1.20'
+commands:
+  report:
+    description: Just Report
+  reportlist:
+    description: Report List
+  reportremove:
+    description: Removes Reports
